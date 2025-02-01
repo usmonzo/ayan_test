@@ -1,0 +1,9 @@
+.container {
+  min-height: 100dvh;
+  min-width: 100dvw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(255 255 255 / 30%);
+  backdrop-filter: blur(10px);
+}
